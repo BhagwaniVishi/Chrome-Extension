@@ -1,0 +1,28 @@
+body {
+    background: #f1f5f9;
+}
+.wrapper {
+    width: 300px;
+    text-align: center;
+}
+.titleBtn {
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    background: #facc15;
+    cursor: pointer;
+}
+.title-box {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #bed88f;
+    width: 275px; /* Set a width for the title box */
+    height: 50px; /* Set a fixed height for the title box */
+    overflow: hidden; /* Prevent overflow if the title is too long */
+    color: #235ac0;
+    font-size: large;
+    font-weight: bold;
+  }
